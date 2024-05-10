@@ -1,0 +1,8 @@
+# Mine Server
+This is Mine Game Server for Atari Casino Platform.
+Server's main communication method is socket communication.
+you can learn socket communication about this repositry.
+
+
+#Run
+npm start
